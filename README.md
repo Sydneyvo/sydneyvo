@@ -1,8 +1,3 @@
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:58a6ff&height=90&section=header"/>
-</p>
-
 <h1 align="center">Hi, I'm Sydney 👋</h1>
 
 <p align="center">
@@ -81,7 +76,3 @@ Right now my interests are shifting toward:
 Email: svo07@cs.washington.edu
 
 </div>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1f6feb&height=90&section=footer"/>
-</p>
