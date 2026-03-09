@@ -21,8 +21,8 @@ I enjoy building across research & industry. Currently working on a CV project e
 
 Right now my interests are shifting toward:
 
-‣ 🤖 Applied natural language systems & LLMs        🧩 Multimodal AI, combining text + vision                      🔎 Context-aware assistants                           
-‣ 🧭 Mobility, access, & smarter navigation tools  🧾 Personal data summarization / journaling with LLMs
+‣  Applied natural language systems & LLMs,         Multimodal AI, combining text + vision,                      Context-aware assistants                           
+‣  Mobility, access, & smarter navigation tools,   Personal data summarization / journaling with LLMs
 
 </div>
 
@@ -34,22 +34,22 @@ Right now my interests are shifting toward:
 <tr>
 <td valign="top" width="50%" align="center">
 
-### 🚧 Currently Working On
-‣ 🅿️ **Smart Parking Availability App**  Computer Vision and real-time data visualizations for high-demand areas  
+### ⚒️ Currently Working On
+‣  **Smart Parking Availability App**  Computer Vision and real-time data visualizations for high-demand areas  
 
-‣ 💰 **Budget Buddy**  Gamified personal finance budgeting
+‣  **Budget Buddy**  Gamified personal finance budgeting
 
-‣ 🔬 **Exploring research directions**
+‣  **Exploring research directions**
 
 </td>
 
 <td valign="top" width="50%" align="center">
 
 ### 🌱 Research Interests
-‣ 🧠 Human-Computer Interaction  
-‣ 📡 Ubiquitous Computing & Sensing  
-‣ 🤖 Applied ML / NLP  
-‣ 🌿 Other cool stuff!
+‣  Human-Computer Interaction  
+‣  Ubiquitous Computing & Sensing  
+‣  Applied ML / NLP  
+‣  Other cool stuff!
 
 </td>
 </tr>
