@@ -61,7 +61,7 @@ Right now my interests are shifting toward:
 
 <div align="center">
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p>
 <a href="https://www.linkedin.com/in/sydneyvo/">
