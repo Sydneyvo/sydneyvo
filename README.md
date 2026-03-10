@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sydney 👋</h1>
+<h1 align="center">Hi, I'm Sydney!</h1>
 
 <p align="center">
 CS @ UW • Interested in HCI, NLP, & CV
